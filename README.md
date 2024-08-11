@@ -28,3 +28,8 @@ This project is an admin dashboard for a social media application that allows ad
    ```bash
    git clone https://github.com/yourusername/admin-dashboard.git
    cd admin-dashboard
+
+## Screenshots
+![homepage](https://github.com/user-attachments/assets/d32c3b30-e407-45ba-add0-3a4f5b5c42f7)
+![responsive](https://github.com/user-attachments/assets/eaaf6907-0405-4f94-b994-ff3f1137f535)
+![postpage](https://github.com/user-attachments/assets/bd6d3ad6-9508-4384-9711-bc5a2da17784)
