@@ -32,10 +32,10 @@ This project is an admin dashboard for a social media application that allows ad
    
 ## Usage
 
-Login: Access the dashboard by entering any credentials on the login page.
-Home Page: View key performance indicators (KPIs) related to users and posts.
-Users Listing Page: Manage users by banning or editing them.
-Posts Listing Page: Manage posts by deleting or hiding them.
+- Login: Access the dashboard by entering any credentials on the login page.
+- Home Page: View key performance indicators (KPIs) related to users and posts.
+- Users Listing Page: Manage users by banning or editing them.
+- Posts Listing Page: Manage posts by deleting or hiding them.
 
 ## Screenshots
 
