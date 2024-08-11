@@ -15,11 +15,8 @@ This project is an admin dashboard for a social media application that allows ad
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Folder Structure](#folder-structure)
 - [Screenshots](#screenshots)
 - [Video Demo](#video-demo)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
@@ -28,8 +25,24 @@ This project is an admin dashboard for a social media application that allows ad
    ```bash
    git clone https://github.com/yourusername/admin-dashboard.git
    cd admin-dashboard
+   
+## Usage
+
+Login: Access the dashboard by entering any credentials on the login page.
+Home Page: View key performance indicators (KPIs) related to users and posts.
+Users Listing Page: Manage users by banning or editing them.
+Posts Listing Page: Manage posts by deleting or hiding them.
 
 ## Screenshots
+
 ![homepage](https://github.com/user-attachments/assets/d32c3b30-e407-45ba-add0-3a4f5b5c42f7)
+
+
 ![responsive](https://github.com/user-attachments/assets/eaaf6907-0405-4f94-b994-ff3f1137f535)
+
+
 ![postpage](https://github.com/user-attachments/assets/bd6d3ad6-9508-4384-9711-bc5a2da17784)
+
+## Video Demo
+
+https://www.loom.com/share/099cb417aa42461b85b40fe7d80d1e65
