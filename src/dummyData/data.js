@@ -1,0 +1,80 @@
+export const user = [
+  {
+    user_id: "1",
+    username: "johndoe",
+    name: "John Doe",
+    email: "johndoe@example.com",
+    active_in_last_24_hours: true,
+    banned: false,
+  },
+  {
+    user_id: "2",
+    username: "janedoe",
+    name: "Jane Doe",
+    email: "janedoe@example.com",
+    active_in_last_24_hours: false,
+    banned: false,
+  },
+  {
+    user_id: "3",
+    username: "samsmith",
+    name: "Sam Smith",
+    email: "samsmith@example.com",
+    active_in_last_24_hours: true,
+    banned: false,
+  },
+  {
+    user_id: "4",
+    username: "maryjane",
+    name: "Mary Jane",
+    email: "maryjane@example.com",
+    active_in_last_24_hours: true,
+    banned: false,
+  },
+  {
+    user_id: "5",
+    username: "peterparker",
+    name: "Peter Parker",
+    email: "peterparker@example.com",
+    active_in_last_24_hours: false,
+    banned: false,
+  },
+];
+
+export const posts = [
+  {
+    post_id: "101",
+    post_caption: "Loving the sunny weather today!",
+    media_url: "https://example.com/sunny.jpg",
+    published_in_last_24_hours: true,
+    hideStatus: false,
+  },
+  {
+    post_id: "102",
+    post_caption: "New blog post is live! Check it out.",
+    media_url: "https://example.com/blog.jpg",
+    published_in_last_24_hours: false,
+    hideStatus: false,
+  },
+  {
+    post_id: "103",
+    post_caption: "Had an amazing time at the concert!",
+    media_url: "https://example.com/concert.jpg",
+    published_in_last_24_hours: false,
+    hideStatus: false,
+  },
+  {
+    post_id: "104",
+    post_caption: "Here's my new recipe for a quick snack.",
+    media_url: "https://example.com/recipe.jpg",
+    published_in_last_24_hours: true,
+    hideStatus: false,
+  },
+  {
+    post_id: "105",
+    post_caption: "Exploring the mountains!",
+    media_url: "https://example.com/mountains.jpg",
+    published_in_last_24_hours: true,
+    hideStatus: false,
+  },
+];
