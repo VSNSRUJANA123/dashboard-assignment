@@ -20,11 +20,15 @@ This project is an admin dashboard for a social media application that allows ad
 
 ## Installation
 
-1. **Clone the repository:**
+1. **Project rules:**
 
    ```bash
    git clone https://github.com/yourusername/admin-dashboard.git
    cd admin-dashboard
+   npm install
+   npm start
+   npm run dev
+
    
 ## Usage
 
